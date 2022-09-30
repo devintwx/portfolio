@@ -846,3 +846,13 @@ ul li .date{
 .copy h3 {
     font-family: "poppins";
 }
+
+.container ul li:hover {
+    transform: scale(1);
+    transition: .4s;
+}
+
+.main:hover {
+    transform: translateY(-10px) ;
+    transition: .4s;
+}
